@@ -1,0 +1,12 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Zaypay\Zaypay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\Zaypay.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\NSubstitute.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\NSubstitute.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\obj\Debug\Zaypay.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\Newtonsoft.Json.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Debug\Zaypay.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\obj\Debug\Zaypay.exe
