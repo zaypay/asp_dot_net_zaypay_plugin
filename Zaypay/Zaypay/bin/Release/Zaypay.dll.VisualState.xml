@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1013]C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Zaypay.dll</TopNode>
-  <SelectedNode>[0-1013]C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Zaypay.dll</SelectedNode>
+  <TopNode>[0-1013]C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Zaypay.dll</TopNode>
+  <SelectedNode>[0-1013]C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Zaypay.dll</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1013]C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Zaypay.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Zaypay.dll" Expanded="true" />
     <Node UniqueName="[0-1014]Zaypay" Expanded="true" />
     <Node UniqueName="[0-1015]Zaypay.Test" Expanded="true" />
     <Node UniqueName="[0-1000]Zaypay.Test.PriceSettingTest" Expanded="true" />
