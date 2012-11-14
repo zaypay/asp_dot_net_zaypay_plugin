@@ -8,35 +8,5 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\nunit.framework.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\obj\Release\ResolveAssemblyReference.cache
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\obj\Release\Zaypay.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.Interception.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.ServiceLocation.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.Interception.xml
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.ServiceLocation.xml
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\bin\Release\Zaypay.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Zaypay\Zaypay\obj\Release\Zaypay.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Zaypay.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Zaypay.pdb
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Newtonsoft.Json.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\NSubstitute.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.Interception.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.ServiceLocation.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Newtonsoft.Json.pdb
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Newtonsoft.Json.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\NSubstitute.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.Interception.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.ServiceLocation.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\bin\Release\Microsoft.Practices.Unity.xml
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\obj\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\obj\Release\Zaypay.dll
-C:\Documents and Settings\Administrator\My Documents\GitHub\asp_dot_net_zaypay_plugin\Zaypay\Zaypay\obj\Release\Zaypay.pdb

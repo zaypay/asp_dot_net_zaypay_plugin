@@ -338,13 +338,7 @@ namespace Zaypay
             
             return e;
         }
-
-        private void LogEntry(string mesg)
-        {
-            //logEntry.Message = mesg;
-            //Logger.Write(logEntry);
-        }
-
+        
         public static void Main()
         {
             PriceSetting ps = new PriceSetting(pId: 140494, pKey: "4c60870f5906a9b16507a62e96f0860f");
