@@ -213,11 +213,7 @@ namespace Zaypay
 
         public virtual Hashtable GetResponse(string url, string method = "GET", string parameters = "")
         {
-
-            Console.WriteLine(url);
-            Console.WriteLine(parameters);
-            Console.WriteLine(method);
-
+                        
             Hashtable response = new Hashtable();
             
             try
@@ -254,8 +250,7 @@ namespace Zaypay
         }
 
         private string ConvertToQueryString(NameValueCollection qs)
-        {
-            //return string.Join("&", Array.ConvertAll(qs.AllKeys, key => string.Format("{0}={1}", HttpUtility.UrlEncode(key), HttpUtility.UrlEncode(qs[key]))));
+        {        
             return string.Join("&", Array.ConvertAll(qs.AllKeys, key => string.Format("{0}={1}", key, qs[key])));
         }
 
