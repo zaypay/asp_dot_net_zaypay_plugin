@@ -104,9 +104,9 @@ namespace Zaypay
         {
             CheckForInitialSettings();
 
-            string url = baseUrl + '/' + ip + "/pay/" + ID + "/locale_for_ip?key=" + KEY;
-
-            if (!String.IsNullOrWhiteSpace(ip)){
+            string url = baseUrl + '/' + ip + "/pay/" + ID + "/locale_for_ip?key=" + KEY;            
+            
+            if(!String.IsNullOrEmpty(ip.Trim())){            
                 return new LocalForIPResponse(GetResponse(url));
             }                
             else
@@ -178,7 +178,8 @@ namespace Zaypay
         public PaymentResponse VerificationCode(int paymentID, string code)
         {
 
-            if (!String.IsNullOrWhiteSpace(code) && paymentID > 0)
+            
+            if (!String.IsNullOrEmpty(code.Trim()) && paymentID > 0)
             {
                 string url = baseUrl + "///pay/" + ID + "/payments/" + paymentID + "/verification_code";
                 string parameters = "key=" + KEY + "&verification_code=" + code;
@@ -314,7 +315,7 @@ namespace Zaypay
 
         private void CheckForInitialSettings()
         {
-            if (ID <= 0 || String.IsNullOrWhiteSpace(KEY))            
+            if (ID <= 0 || String.IsNullOrEmpty(KEY.Trim()))            
                 throw CreateException("ZaypayConfig", "PriceSetting ID or PriceSetting KEY are not correct");
                 
         }
@@ -334,9 +335,7 @@ namespace Zaypay
         
         public static void Main()
         {
-            PriceSetting ps = new PriceSetting(pId: 140494, pKey: "4c60870f5906a9b16507a62e96f0860f");
-            
-            
+            PriceSetting ps = new PriceSetting(pId: 140494, pKey: "4c60870f5906a9b16507a62e96f0860f");            
         }
     }   
 }
