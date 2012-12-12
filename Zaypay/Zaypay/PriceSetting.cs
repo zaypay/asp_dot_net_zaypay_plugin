@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Text;
 using System.IO;
 using System.Net;
 using System.Xml;
 using System.Collections;
-using System.Xml.Linq;
 using System.Xml.Serialization;
 using Zaypay;
 using Zaypay.WebService;
